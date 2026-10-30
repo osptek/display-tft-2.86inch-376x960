@@ -1,0 +1,10 @@
+id: YDP286B006-V1
+category: displays
+size: "2.86"
+panel: tft
+resolution: 376x960
+interface: [rgb]
+driver: ST7701
+touch: null
+outline: 31.20 x 76.6 x 2.15 mm
+active_area: 26.51 x 68.08 mm
